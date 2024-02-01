@@ -1,6 +1,6 @@
 - 🖥 I’m currently student at 42Roma Luiss
 
-<div align="center">
+#<div align="center">
 	<table>
 		<tr>
 			<b>My 42 stats</b></br>
@@ -11,3 +11,9 @@
 			</a>
 		</tr>
 	</table>
+ 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
