@@ -14,9 +14,6 @@
       <a href="https://github.com/lde-mich">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lde-mich?cardType=level&theme=tokyonight" width="397" height="200">
       </a> 
-      <a href="https://github.com/lde-mich?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lde-mich&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
-      </a>
     </tr>
   </table>
 
