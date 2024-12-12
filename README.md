@@ -20,7 +20,7 @@
     </tr>
   </table>
 
-  <table style="background: #1e1e2f; border-radius: 10px; padding: 10px; margin: 20px 0;">
+  <table style="background: rgba(30, 30, 47, 0.9); border-radius: 10px; padding: 10px; margin: 20px 0;">
     <tr>
       <td>
         <table style="border: 2px solid #ff4500; border-radius: 10px; width: 100%;">
