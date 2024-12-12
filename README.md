@@ -26,6 +26,5 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="GitHub User Contribution">
-</div>
+<img src="https://profile-counter.glitch.me/{lde-mich}/count.svg" alt="lde-mich :: Visitor's Count" />
+
