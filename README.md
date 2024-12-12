@@ -1,19 +1,16 @@
 - 🖥 I’m currently student at 42Roma Luiss
 
 <p align="center">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,java,spring,mysql,cpp,c,vim,html,postman" />
   </a>
+  
 </p>
 
+
 <div align="center">
-  <table>
-    <tr>
-      <a href="https://github.com/lde-mich">
-        <img src="https://badge42.vercel.app/api/v2/clhqh0h8h011808n01iu6fcsn/stats?cursusId=21&coalitionId=125">
-      </a>
-    </tr>
-  </table>
+  
   <table>
     <tr>
       <a href="https://github.com/lde-mich">
@@ -24,7 +21,30 @@
       </a>
     </tr>
   </table>
+
+  <img src="https://profile-counter.glitch.me/{lde-mich}/count.svg" alt="lde-mich :: Visitor's Count" />
+  
 </div>
 
-<img src="https://profile-counter.glitch.me/{lde-mich}/count.svg" alt="lde-mich :: Visitor's Count" />
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
