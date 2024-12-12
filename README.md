@@ -37,9 +37,7 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Inception?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Inception?style=flat-square&labelColor=343b41"/></td>
       </tr>
-    </tbody>
-	  <thead align="center">
-      <tr border: none;>
+	    <tr border: none;>
         <td><b>📘 Personal project</b></td>
         <td><b>⭐ Stars</b></td>
         <td><b>🤝 Forks</b></td>
