@@ -15,9 +15,6 @@
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lde-mich?cardType=level&theme=tokyonight" width="397" height="200">
       </a> 
     </tr>
-    <a href="https://github.com/lde-mich">
-				<img src="https://awesome-github-stats.azurewebsites.net/user-stats/lde-mich?cardType=level&theme=tokyonight" width="397" height="200">
-			</a>
   </table>
 
   <table>
