@@ -36,14 +36,49 @@
           </thead>
           <tbody style="background-color: #1c1c2c; color: white;">
             <tr>
-              <td><a href="https://github.com/lde-mich/CPP-09" style="color: #00ff00;"><b>CPP-09</b></a></td>
-              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/CPP-09?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
-              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/CPP-09?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><a href="https://github.com/lde-mich/ft_transcendence" style="color: #00ff00;"><b>ft_transcendence</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/ft_transcendence?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/ft_transcendence?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
             </tr>
             <tr>
               <td><a href="https://github.com/lde-mich/Inception" style="color: #00ff00;"><b>Inception</b></a></td>
               <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Inception?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
               <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Inception?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/Cub3D" style="color: #00ff00;"><b>Cub3D</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Cub3D?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Cub3D?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/Minitalk" style="color: #00ff00;"><b>Minitalk</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Minitalk?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Minitalk?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/Push_swap" style="color: #00ff00;"><b>Push_swap</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Push_swap?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Push_swap?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/So_long" style="color: #00ff00;"><b>So_long</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/So_long?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/So_long?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/Get_next_line" style="color: #00ff00;"><b>Get_next_line</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Get_next_line?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Get_next_line?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/ft_printf" style="color: #00ff00;"><b>ft_printf</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/ft_printf?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/ft_printf?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/lde-mich/Libft" style="color: #00ff00;"><b>Libft</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Libft?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Libft?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
             </tr>
           </tbody>
         </table>
