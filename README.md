@@ -46,6 +46,11 @@
               <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Inception?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
             </tr>
             <tr>
+              <td><a href="https://github.com/lde-mich/CPP-Modules" style="color: #00ff00;"><b>CPP-Modules</b></a></td>
+              <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/CPP-Modules?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+              <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/CPP-Modules?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
+            </tr>
+            <tr>
               <td><a href="https://github.com/lde-mich/Cub3D" style="color: #00ff00;"><b>Cub3D</b></a></td>
               <td><img alt="Stars" src="https://img.shields.io/github/stars/lde-mich/Cub3D?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
               <td><img alt="Forks" src="https://img.shields.io/github/forks/lde-mich/Cub3D?style=flat-square&labelColor=1c1c2c&color=00ff00"/></td>
