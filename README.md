@@ -25,6 +25,10 @@
   <img src="https://komarev.com/ghpvc/?username=lde-mich&style=for-the-badge&color=FF2D95&label=Profile+views" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="./assets/cyberpunk-room.svg" width="95%" alt="Cyberpunk pixel-art developer room" />
+</p>
+
 <br />
 
 <h2 align="center">Tech Arsenal</h2>
